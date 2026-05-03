@@ -1,0 +1,79 @@
+Cover Letter --- submission of:
+"Discrete Drainage Dynamics IV:
+Light Deflection, Shapiro Delay, and the Photon-Substrate Coupling
+in the Static Spherical Sector"
+
+Stanislas de Wavrin
+Independent researcher
+dewavrin.iphone@gmail.com
+2 May 2026
+
+To the Editor,
+
+I would like to submit the enclosed manuscript for consideration. Below
+I summarise the contribution and why I believe it is timely.
+
+==========================================================================
+SUMMARY
+==========================================================================
+
+I compute photon deflection and Shapiro delay on the DDD substrate in the static spherical sector. Both observables emerge from a single photon-substrate coupling exponent eta = 2, with the leading post-Newtonian deflection angle matching the GR value 4GM/(c^2 b) to within numerical precision over a range of impact parameters. The result extends the gravitational sector of Papers I-II to electromagnetic test particles.
+
+==========================================================================
+WHY THIS MATTERS
+==========================================================================
+
+Light deflection and Shapiro delay are two of the four classical tests of GR. Reproducing both from a single ansatz on a discrete substrate, with no fitted parameter, is a strong consistency check.
+
+==========================================================================
+NOVELTY
+==========================================================================
+
+Photon-substrate coupling ansatz n(r) ~ T^eta with eta = 2. Numerical computation of deflection and delay. Comparison with Eddington's 1919 observation and modern VLBI bounds.
+
+==========================================================================
+SUBMISSION STRATEGY
+==========================================================================
+
+This manuscript is Paper IV of a planned ten-paper series on
+Discrete Drainage Dynamics (DDD). The series is organised so each
+paper has a clean, falsifiable claim of its own; the present paper
+can be read independently of the others, with explicit cross-
+references to its companions where needed.
+
+I am happy to follow whichever route the editor prefers: standalone
+submission of the present paper, or coordinated submission as part
+of the series.
+
+==========================================================================
+DATA AND CODE
+==========================================================================
+
+All simulation code, data, and analysis scripts accompanying this
+paper are available in the supplementary material and will be
+released on the author's public repository upon acceptance.
+
+==========================================================================
+SUGGESTED REFEREES
+==========================================================================
+
+[To be filled by the author at the time of submission, with
+2--3 referees working in the relevant area.]
+
+==========================================================================
+DECLARATIONS
+==========================================================================
+
+  - The author declares no competing financial interests.
+  - The work has not been previously published, and is not under
+    consideration elsewhere.
+  - All simulations were performed by the author on a personal
+    computer.
+  - The author is an independent researcher with no institutional
+    affiliation.
+
+I look forward to your feedback.
+
+With kind regards,
+
+Stanislas de Wavrin
